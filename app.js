@@ -1,5 +1,5 @@
 // API key de OpenWeatherMap
-const API_KEY = 'da348a750d943ae8afdcb071f0e60e44';
+const API_KEY = 'Your-api-key';
 
 // Función para obtener el clima
 function getWeather() {
